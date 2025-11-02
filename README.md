@@ -22,7 +22,7 @@ Visualizations showing trends in vehicle type, cost, and charging efficiency.
 
 Future scope: build ML models for prediction (e.g., EV range or price).
 
-🧰 Technologies Used Area Tools / Libraries Programming Language Python 3.x Libraries pandas, numpy, matplotlib, seaborn Chatbot / NLP streamlit, huggingface, requests Environment VS Code, Jupyter Notebook Version Control Git + GitHub 🚀 How to Run 🧩 1. Clone this repository git clone https://github.com/JANGAMBALACHANDRAMOHANREDDY/Week-1.git cd Week-1
+🧰 Technologies Used Area Tools / Libraries Programming Language Python 3.x Libraries pandas, numpy, matplotlib, seaborn Chatbot / NLP streamlit, huggingface, requests Environment VS Code, Jupyter Notebook Version Control Git + GitHub 🚀 How to Run 🧩 1. Clone this repository git clone https://github.com/Vyshnavi12548/EV-Week-1 cd Week-1
 
 ⚙️ 2. Install required dependencies pip install -r requirements.txt
 
